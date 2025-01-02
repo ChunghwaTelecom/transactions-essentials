@@ -3,7 +3,7 @@
 	<parent>
 		<artifactId>ate</artifactId>
 		<groupId>com.atomikos</groupId>
-		<version>6.0.1-SNAPSHOT</version>
+		<version>6.0.1-cht-1-SNAPSHOT</version>
 	</parent>
 	<artifactId>transactions-eclipselink</artifactId>
 	<dependencies>
@@ -16,7 +16,7 @@
 		<dependency>
 			<groupId>com.atomikos</groupId>
 			<artifactId>transactions-jta</artifactId>
-			<version>6.0.1-SNAPSHOT</version>
+			<version>6.0.1-cht-1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
             <groupId>org.apache.geronimo.specs</groupId>

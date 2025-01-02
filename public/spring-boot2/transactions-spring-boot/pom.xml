@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>com.atomikos</groupId>
 		<artifactId>spring-boot2</artifactId>
-		<version>6.0.1-SNAPSHOT</version>
+		<version>6.0.1-cht-1-SNAPSHOT</version>
 	</parent>
 	<artifactId>transactions-spring-boot</artifactId>
 	<name>Transactions Spring Boot</name>
@@ -22,17 +22,17 @@
 		<dependency>
 			<groupId>com.atomikos</groupId>
 			<artifactId>transactions-jdbc</artifactId>
-			<version>6.0.1-SNAPSHOT</version>
+			<version>6.0.1-cht-1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>com.atomikos</groupId>
 			<artifactId>transactions-jms</artifactId>
-			<version>6.0.1-SNAPSHOT</version>
+			<version>6.0.1-cht-1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>com.atomikos</groupId>
 			<artifactId>transactions-jta</artifactId>
-			<version>6.0.1-SNAPSHOT</version>
+			<version>6.0.1-cht-1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework</groupId>

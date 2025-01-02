@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>com.atomikos</groupId>
 		<artifactId>spring-boot2</artifactId>
-		<version>6.0.1-SNAPSHOT</version>
+		<version>6.0.1-cht-1-SNAPSHOT</version>
 	</parent>
 	<artifactId>transactions-spring-boot-integration-tests</artifactId>
 	<name>Transactions Spring Boot Integration Tests</name>
@@ -12,7 +12,7 @@
 		<dependency>
 			<groupId>com.atomikos</groupId>
 			<artifactId>transactions-spring-boot-starter</artifactId>
-			<version>6.0.1-SNAPSHOT</version>
+			<version>6.0.1-cht-1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
